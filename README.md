@@ -28,28 +28,28 @@
 
 
 ## Setup
-see `requirements.txt` for all dependencies. Below are the setup basics for each component.
+see `requirements.txt` for all dependencies. Below are the setup basics for each component  
 ## Django
-start a new django application 
-`python manage.py startapp stockosaurus`
-edit the `settings.py` file accordingly
-then run migrations
-`python manage.py migrate`
-finally, run the development server
-`python manage.py runserver`
+start a new django application     
+`python manage.py startapp stockosaurus`      
+edit the `settings.py` file accordingly     
+then run migrations    
+`python manage.py migrate`    
+finally, run the development server    
+`python manage.py runserver`     
 
 ## React
-create a new react app using npx
-`npx create-react-app app`
-navigate into app and start the application
-`npm start`
-The browser will open the default react app screen at `http://localhost:3000`
+create a new react app using npx    
+`npx create-react-app app`   
+navigate into app and start the application   
+`npm start`   
+The browser will open the default react app screen at `http://localhost:3000`    
 
 ## Docker
-the app's environment is defined with a `Dockerfile`
-the app's services are defined in the `docker-compose.yml`
-use the docker compose command to start and run the entire app
-`docker-compose up`
+the app's environment is defined with a `Dockerfile`   
+the app's services are defined in the `docker-compose.yml`  
+use the docker compose command to start and run the entire app   
+`docker-compose up`   
 
 
 ## Project Status
