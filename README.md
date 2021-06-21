@@ -1,6 +1,6 @@
 # stockosaurus
-> Web application designed to display stocks, cryptocurrencies and relevant news articles
-> Developed using React for an interactive user experience
+> web application designed to display stocks, cryptocurrencies and relevant news articles                                                                            
+> developed using React for an interactive user experience
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,8 +11,10 @@
 
 
 ## General Information
-- stockosaurus is a project that utilises a React frontend with a Django backend to allow for rapid development of dynamic, interactive web applications
+- stockosaurus is a project that utilises a React frontend with a Django backend to allow for rapid development of interactive web applications
+
 - intended to display useful stock and crypto related information in an appealing, interactive and user friendly way
+
 - more information can be found below, as well as a quick guide on how to setup the project for yourself
 
 
